@@ -8,7 +8,8 @@ The system supports various types of intellectual property including patents, ar
 
 ## Project Vision
 
-Our vision is to revolutionize how collaborative creative work is monetized and managed by providing a transparent, automated, and trustless infrastructure for intellectual property rights. We aim to:
+Our vision is to revolutionize how collaborative creative work is monetized and manage<img width="1366" height="768" alt="transaction" src="https://github.com/user-attachments/assets/d856af78-724e-4ee0-a586-c5a45f6957a8" />
+d by providing a transparent, automated, and trustless infrastructure for intellectual property rights. We aim to:
 
 - **Empower creators** to collaborate freely without worrying about fair compensation
 - **Eliminate intermediaries** who traditionally take large cuts from royalty payments
